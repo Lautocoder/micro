@@ -6,15 +6,13 @@ using Play.Catalog.Service.Entities;
 
 namespace Play.Catalog.Service.Repositories
 {
-    public class ItemsRepository
+    public class ItemsRepository : IItemsRepository
     {
         private const string collectionName = "items";
         private readonly IMongoCollection<Item> dbCollection;
-        private readonly FilterDefinitionBuilder<Item> filterBuilder=Builders<Item>.Filter;
-        public ItemsRepository()
+        private readonly FilterDefinitionBuilder<Item> filterBuilder = Builders<Item>.Filter;
+        public ItemsRepository(IMongoDatabase database)
         {
-            var mongoClient= new MongoClient();
-            var database = mongoClient.GetDatabase("mongodb://localhost:27017");
             dbCollection = database.GetCollection<Item>(collectionName);
         }
 
@@ -32,7 +30,7 @@ namespace Play.Catalog.Service.Repositories
 
         public async Task CreateAsync(Item entity)
         {
-            if (entity==null)
+            if (entity == null)
             {
                 throw new ArgumentNullException(nameof(entity));
             }
@@ -45,14 +43,14 @@ namespace Play.Catalog.Service.Repositories
             {
                 throw new ArgumentNullException(nameof(entity));
             }
-            FilterDefinition<Item> filter=filterBuilder.Eq(existEntity => existEntity.Id, entity.Id);
-            await dbCollection.ReplaceOneAsync(filter,entity);
+            FilterDefinition<Item> filter = filterBuilder.Eq(existEntity => existEntity.Id, entity.Id);
+            await dbCollection.ReplaceOneAsync(filter, entity);
         }
 
         public async Task RemoveAsync(Guid id)
         {
             FilterDefinition<Item> filter = filterBuilder.Eq(entity => entity.Id, id);
-             await dbCollection.DeleteOneAsync(filter);
+            await dbCollection.DeleteOneAsync(filter);
 
         }
     }
