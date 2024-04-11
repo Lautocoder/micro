@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.inventory\\src\\play.inventory.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|solutionrelative:src\\play.inventory.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Startup.cs",
+              "RelativeDocumentMoniker": "src\\Play.Inventory.Service\\Startup.cs",
+              "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Startup.cs",
+              "RelativeToolTip": "src\\Play.Inventory.Service\\Startup.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAADwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T17:26:16.132Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
