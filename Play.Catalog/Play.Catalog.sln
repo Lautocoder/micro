@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{BC4D1681-5BA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Play.Catalog.Service", "src\Play.Catalog.Service\Play.Catalog.Service.csproj", "{C319761D-0355-4066-B244-AD16CE283795}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Play.Catalog.Contracts", "src\Play.Catalog.Contracts\Play.Catalog.Contracts.csproj", "{9E527B50-F50C-43FA-AA94-BA534A1C410E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{C319761D-0355-4066-B244-AD16CE283795}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C319761D-0355-4066-B244-AD16CE283795}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C319761D-0355-4066-B244-AD16CE283795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E527B50-F50C-43FA-AA94-BA534A1C410E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E527B50-F50C-43FA-AA94-BA534A1C410E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E527B50-F50C-43FA-AA94-BA534A1C410E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E527B50-F50C-43FA-AA94-BA534A1C410E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

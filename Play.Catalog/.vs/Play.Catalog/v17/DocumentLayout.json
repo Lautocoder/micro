@@ -1,34 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\",
+  "WorkspaceRootPath": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\lafleur\\desktop\\play.catalog\\play.catalog\\src\\play.catalog.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.catalog\\src\\play.catalog.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\lafleur\\desktop\\play.catalog\\play.catalog\\src\\play.catalog.service\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\lafleur\\desktop\\play.catalog\\play.catalog\\src\\play.catalog.service\\repositories\\itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\repositories\\itemsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\lafleur\\desktop\\play.catalog\\play.catalog\\src\\play.catalog.service\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\lafleur\\desktop\\play.catalog\\play.catalog\\src\\play.catalog.service\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\lafleur\\desktop\\play.catalog\\play.catalog\\src\\play.catalog.service\\play.catalog.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\play.catalog.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\lafleur\\desktop\\play.catalog\\play.catalog\\src\\play.catalog.service\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\dtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,99 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Startup.cs",
+              "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Service\\Startup.cs",
               "RelativeDocumentMoniker": "src\\Play.Catalog.Service\\Startup.cs",
-              "ToolTip": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Startup.cs",
+              "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Service\\Startup.cs",
               "RelativeToolTip": "src\\Play.Catalog.Service\\Startup.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T23:06:19.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Extensions.cs",
-              "RelativeDocumentMoniker": "src\\Play.Catalog.Service\\Extensions.cs",
-              "ToolTip": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Extensions.cs",
-              "RelativeToolTip": "src\\Play.Catalog.Service\\Extensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T21:59:45.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ItemsController.cs",
-              "DocumentMoniker": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
-              "RelativeDocumentMoniker": "src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
-              "ToolTip": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
-              "RelativeToolTip": "src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAgwDYAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T17:36:58.247Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ItemsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Repositories\\ItemsRepository.cs",
-              "RelativeDocumentMoniker": "src\\Play.Catalog.Service\\Repositories\\ItemsRepository.cs",
-              "ToolTip": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Repositories\\ItemsRepository.cs",
-              "RelativeToolTip": "src\\Play.Catalog.Service\\Repositories\\ItemsRepository.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T20:47:21.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Play.Catalog.Service",
-              "DocumentMoniker": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-              "RelativeDocumentMoniker": "src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-              "ToolTip": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-              "RelativeToolTip": "src\\Play.Catalog.Service\\Play.Catalog.Service.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-07T20:43:56.38Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs",
-              "RelativeDocumentMoniker": "src\\Play.Catalog.Service\\Entities\\Item.cs",
-              "ToolTip": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Entities\\Item.cs",
-              "RelativeToolTip": "src\\Play.Catalog.Service\\Entities\\Item.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T19:53:25.323Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Dtos.cs",
-              "DocumentMoniker": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Dtos.cs",
-              "RelativeDocumentMoniker": "src\\Play.Catalog.Service\\Dtos.cs",
-              "ToolTip": "C:\\Users\\Lafleur\\Desktop\\Play.Catalog\\Play.Catalog\\src\\Play.Catalog.Service\\Dtos.cs",
-              "RelativeToolTip": "src\\Play.Catalog.Service\\Dtos.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-07T17:36:47.618Z",
+              "WhenOpened": "2024-04-11T23:06:20.695Z",
               "EditorCaption": ""
             }
           ]
