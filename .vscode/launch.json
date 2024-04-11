@@ -1,7 +1,6 @@
 {
     "version": "0.2.0",
     "configurations": [
-        
         {
             // Utiliser IntelliSense pour déterminer quels attributs existent pour le débogage C#
             // Utiliser le pointage pour la description des attributs existants
@@ -16,10 +15,10 @@
             "cwd": "${workspaceFolder}/Play.Catalog/src/Play.Catalog.Service",
             "stopAtEntry": false,
             // Activez le lancement d’un navigateur web au démarrage de ASP.NET Core. Pour plus d’informations : https://aka.ms/VSCode-CS-LaunchJson-WebBrowser
-            // "serverReadyAction": {
-            //     "action": "openExternally",
-            //     "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
-            // },
+            "serverReadyAction": {
+                "action": "openExternally",
+                "pattern": "\\bNow listening on:\\s+(https?://\\S+)"
+            },
             "env": {
                 "ASPNETCORE_ENVIRONMENT": "Development"
             },
