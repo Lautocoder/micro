@@ -2629,8 +2629,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
-              "projectPath": "c:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj"
+            "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
+              "projectPath": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj"
             }
           }
         }

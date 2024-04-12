@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W8l/HliqRCZN4U/kQoQiAbwusbojD54bo2PgrsnxOmBuXGu4n8w3L67CrHNNkHB+D9dq0y3QxCCa0zuKo2ABfg==",
+  "dgSpecHash": "xUU+N8qvgKIgOkSQlKNuI0SPvqtrX/RjZrAKIskkpTVF3j6RuQota++wmIulorJfymOrTaRJDP6H/yecnMeMQQ==",
   "success": true,
-  "projectFilePath": "c:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
+  "projectFilePath": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
