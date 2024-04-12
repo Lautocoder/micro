@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.inventory\\src\\play.inventory.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|solutionrelative:src\\play.inventory.service\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.inventory\\src\\play.inventory.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|solutionrelative:src\\play.inventory.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.inventory\\src\\play.inventory.service\\consumers\\catalogitemupdatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|solutionrelative:src\\play.inventory.service\\consumers\\catalogitemupdatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.inventory\\src\\play.inventory.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|solutionrelative:src\\play.inventory.service\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.inventory\\src\\play.inventory.service\\consumers\\catalogitemdeletedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|solutionrelative:src\\play.inventory.service\\consumers\\catalogitemdeletedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.inventory\\src\\play.inventory.service\\consumers\\catalogitemcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0505524F-3713-4325-8565-F06594612807}|src\\Play.Inventory.Service\\Play.Inventory.Service.csproj|solutionrelative:src\\play.inventory.service\\consumers\\catalogitemcreatedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +39,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Play.Inventory.Service\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Play.Inventory.Service\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T15:22:34.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Play.Inventory.Service\\appsettings.json",
+              "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\appsettings.json",
+              "RelativeToolTip": "src\\Play.Inventory.Service\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T14:51:20.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CatalogItemDeletedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemDeletedConsumer.cs",
+              "RelativeDocumentMoniker": "src\\Play.Inventory.Service\\Consumers\\CatalogItemDeletedConsumer.cs",
+              "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemDeletedConsumer.cs",
+              "RelativeToolTip": "src\\Play.Inventory.Service\\Consumers\\CatalogItemDeletedConsumer.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:47:30.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatalogItemUpdatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemUpdatedConsumer.cs",
+              "RelativeDocumentMoniker": "src\\Play.Inventory.Service\\Consumers\\CatalogItemUpdatedConsumer.cs",
+              "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemUpdatedConsumer.cs",
+              "RelativeToolTip": "src\\Play.Inventory.Service\\Consumers\\CatalogItemUpdatedConsumer.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAcwC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:41:27.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Startup.cs",
               "RelativeDocumentMoniker": "src\\Play.Inventory.Service\\Startup.cs",
               "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Startup.cs",
               "RelativeToolTip": "src\\Play.Inventory.Service\\Startup.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAADwAAAASAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAcwCIAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T17:26:16.132Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CatalogItemCreatedConsumer.cs",
+              "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs",
+              "RelativeDocumentMoniker": "src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs",
+              "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Inventory\\src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs",
+              "RelativeToolTip": "src\\Play.Inventory.Service\\Consumers\\CatalogItemCreatedConsumer.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T14:33:07.853Z"
             }
           ]
         }
