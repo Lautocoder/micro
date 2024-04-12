@@ -5,6 +5,7 @@ using System.Security.Principal;
 using System.Threading.Tasks;
 using MassTransit;
 using Microsoft.AspNetCore.Mvc;
+using Play.Catalog.Contracts;
 using Play.Catalog.Service.Dtos;
 using Play.Catalog.Service.Entities;
 using Play.Common;
@@ -58,14 +59,18 @@ namespace Play.Catalog.Service.Controllers
             };
             await itemsRepository.CreateAsync(item);
 
+<<<<<<< HEAD
+            await publishEndpoint.Publish(new CatalogItemCreated(item.Id, item.Name, item.Description));
+=======
             //await publishEndpoint.Publish(new CatalogItemCreated(item.Id, item.Name, item.Description));
+>>>>>>> 042dabc88c691e7447534d91fa9f6eea7c746229
 
             return CreatedAtAction(nameof(GetByIdAsync), new { id = item.Id }, item);
         }
 
         [HttpPut("{id}")]
         public async Task<IActionResult> PutAsync(Guid id, UpdateItemDto updateItemDto)
-        {
+        { 
             var existingItem = await itemsRepository.GetAsync(id);
             if (existingItem == null)
             {
@@ -77,6 +82,7 @@ namespace Play.Catalog.Service.Controllers
             existingItem.Price = updateItemDto.Price;
 
             await itemsRepository.UpdateAsync(existingItem);
+            await publishEndpoint.Publish(new CatalogItemUpdated(existingItem.Id, existingItem.Name, existingItem.Description));
             return NoContent();
         }
 
@@ -91,6 +97,9 @@ namespace Play.Catalog.Service.Controllers
             }
 
             await itemsRepository.RemoveAsync(item.Id);
+
+            await publishEndpoint.Publish(new CatalogItemDeleted(id));
+            
             return NoContent();
         }
     }

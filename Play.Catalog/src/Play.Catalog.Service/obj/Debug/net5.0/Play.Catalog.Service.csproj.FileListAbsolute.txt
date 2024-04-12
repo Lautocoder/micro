@@ -127,3 +127,17 @@ c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catal
 c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.Play.Catalog.Service.props
 c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\Play.Cat.72A81496.Up2Date
 c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\obj\Debug\net5.0\refint\Play.Catalog.Service.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Automatonymous.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\GreenPipes.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.AspNetCoreIntegration.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\MassTransit.RabbitMqTransport.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\NewId.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Newtonsoft.Json.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\RabbitMQ.Client.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\System.Text.Json.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.dll
+c:\Users\SOLUTIONS\Desktop\microService\MicroService\Play.Catalog\src\Play.Catalog.Service\bin\Debug\net5.0\Play.Catalog.Contracts.pdb

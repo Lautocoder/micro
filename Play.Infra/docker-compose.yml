@@ -1,4 +1,3 @@
-# docker run -d --rm --name 27017:27017 -v mongodbdata:/data/db mongo
 
 version: '3.8'
 
@@ -11,5 +10,16 @@ services:
     volumes:
       - mongodbdata:/data/db
 
+  rabbitmq:
+    image: rabbitmq:management
+    container_name: rabbitmq 
+    ports:
+      - 5672:5672 
+      - 15672:15672
+    volumes:
+      - rabbitmqdata:/var/librabbitmq
+    hostname: rabbitmq
+
 volumes:
   mongodbdata:
+  rabbitmqdata:           
