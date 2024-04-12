@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Play - Backup (1).Catalog.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+042dabc88c691e7447534d91fa9f6eea7c746229")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cae998a68389f76c058ffd11ba273de4b9099166")]
 [assembly: System.Reflection.AssemblyProductAttribute("Play - Backup (1).Catalog.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Play - Backup (1).Catalog.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
