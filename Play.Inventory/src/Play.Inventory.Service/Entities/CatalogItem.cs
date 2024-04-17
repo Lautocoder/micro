@@ -9,6 +9,10 @@ namespace Play.Inventory.Service.Entities
 
         public string Name { get; set; }
 
+<<<<<<< HEAD
+        public string Description { get; set; } 
+=======
         public string Desctiption { get; set; } 
+>>>>>>> main
     }
 }

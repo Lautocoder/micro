@@ -25,7 +25,11 @@ namespace Play.Inventory.Service.Consumers
                 {
                     Id = message.ItemId,
                     Name = message.Name,
+<<<<<<< HEAD
+                    Description = message.Description,
+=======
                     Desctiption = message.Description,
+>>>>>>> main
                 };
 
                 await repository.CreateAsync(item);
@@ -33,7 +37,11 @@ namespace Play.Inventory.Service.Consumers
             else
             {
                 item.Name = message.Name;
+<<<<<<< HEAD
+                item.Description = message.Description;
+=======
                 item.Desctiption = message.Description;
+>>>>>>> main
 
                 await repository.UpdateAsync(item);
             }

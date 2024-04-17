@@ -1,5 +1,5 @@
 
-using Catalog.Common.Settings;
+//using Catalog.Common.Settings;
 using MassTransit;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -7,6 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using MongoDB.Driver;
 using Play.Catalog.Service.Entities;
 using Play.Common.MassTransit;
 using Play.Common.MongoDB;
@@ -16,6 +17,7 @@ namespace Play.Catalog.Service
 {
     public class Startup
     {
+        private const string AllowedOriginSetting = "AllowedOrigin";
         private ServiceSettings serviceSettings;
         public Startup(IConfiguration configuration)
         {
@@ -27,14 +29,14 @@ namespace Play.Catalog.Service
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            
+
             serviceSettings = Configuration.GetSection(nameof(ServiceSettings)).Get<ServiceSettings>();
 
             services.AddMongo()
                     .AddMongoRepository<Item>("items")
                     .AddMassTransitWithRabbitMq();
 
-            services.AddControllers(options=>
+            services.AddControllers(options =>
             {
                 options.SuppressAsyncSuffixInActionNames = false;
             });
@@ -52,6 +54,12 @@ namespace Play.Catalog.Service
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Play.Catalog.Service v1"));
+                app.UseCors(builder =>
+                {
+                    builder.WithOrigins(Configuration[AllowedOriginSetting])
+                          .AllowAnyHeader()
+                          .AllowAnyMethod();
+                });
             }
 
             app.UseHttpsRedirection();

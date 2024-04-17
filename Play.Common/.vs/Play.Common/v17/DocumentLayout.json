@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Common\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3D3D35-2FE4-4DF0-93B4-7DB46FF6674D}|src\\Play.Common\\Play.Common.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.common\\src\\play.common\\masstransit\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3D3D35-2FE4-4DF0-93B4-7DB46FF6674D}|src\\Play.Common\\Play.Common.csproj|solutionrelative:src\\play.common\\masstransit\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
+              "RelativeDocumentMoniker": "src\\Play.Common\\MassTransit\\Extensions.cs",
+              "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Common\\src\\Play.Common\\MassTransit\\Extensions.cs",
+              "RelativeToolTip": "src\\Play.Common\\MassTransit\\Extensions.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAAB0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:09:45.185Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

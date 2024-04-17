@@ -3,16 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\",
   "Documents": [
     {
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.catalog\\src\\play.catalog.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+=======
+>>>>>>> main
       "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.catalog\\src\\play.catalog.service\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E527B50-F50C-43FA-AA94-BA534A1C410E}|src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.catalog\\src\\play.catalog.contracts\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9E527B50-F50C-43FA-AA94-BA534A1C410E}|src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj|solutionrelative:src\\play.catalog.contracts\\contracts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
+=======
     },
     {
       "AbsoluteMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|c:\\users\\solutions\\desktop\\microservice\\microservice\\play.catalog\\src\\play.catalog.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C319761D-0355-4066-B244-AD16CE283795}|src\\Play.Catalog.Service\\Play.Catalog.Service.csproj|solutionrelative:src\\play.catalog.service\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+>>>>>>> main
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +32,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
+          "SelectedChildIndex": 2,
+=======
           "SelectedChildIndex": 0,
+>>>>>>> main
           "Children": [
             {
               "$type": "Document",
@@ -40,6 +54,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+<<<<<<< HEAD
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "src\\Play.Catalog.Service\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAIwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:45:18.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+=======
+>>>>>>> main
               "Title": "Contracts.cs",
               "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Contracts.cs",
               "RelativeDocumentMoniker": "src\\Play.Catalog.Contracts\\Contracts.cs",
@@ -47,18 +77,30 @@
               "RelativeToolTip": "src\\Play.Catalog.Contracts\\Contracts.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+<<<<<<< HEAD
+              "WhenOpened": "2024-04-12T15:44:52.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+=======
               "WhenOpened": "2024-04-12T15:44:52.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+>>>>>>> main
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Service\\Startup.cs",
               "RelativeDocumentMoniker": "src\\Play.Catalog.Service\\Startup.cs",
               "ToolTip": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Service\\Startup.cs",
               "RelativeToolTip": "src\\Play.Catalog.Service\\Startup.cs",
+<<<<<<< HEAD
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+=======
               "ViewState": "AQIAABgAAAAAAAAAAAAAAC0AAAAAAAAA",
+>>>>>>> main
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-11T23:06:20.695Z",
               "EditorCaption": ""
