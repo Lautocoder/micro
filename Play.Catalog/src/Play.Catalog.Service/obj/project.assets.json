@@ -719,7 +719,6 @@
           "lib/netstandard2.0/RabbitMQ.Client.dll": {
             "related": ".pdb;.xml"
           }
-<<<<<<< HEAD
         },
         "runtime": {
           "lib/netstandard2.0/RabbitMQ.Client.dll": {
@@ -832,12 +831,6 @@
           "runtimes/opensuse.13.2-x64/native/System.Security.Cryptography.Native.OpenSsl.so": {
             "assetType": "native",
             "rid": "opensuse.13.2-x64"
-=======
-        },
-        "runtime": {
-          "lib/netstandard2.0/RabbitMQ.Client.dll": {
-            "related": ".pdb;.xml"
->>>>>>> main
           }
         }
       },
@@ -1005,7 +998,6 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
-<<<<<<< HEAD
       "System.Collections/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1035,17 +1027,10 @@
         },
         "compile": {
           "ref/netstandard1.3/System.Collections.Concurrent.dll": {
-=======
-      "System.Diagnostics.DiagnosticSource/4.7.1": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {
->>>>>>> main
             "related": ".xml"
           }
         },
         "runtime": {
-<<<<<<< HEAD
           "lib/netstandard1.3/System.Collections.Concurrent.dll": {}
         }
       },
@@ -1167,11 +1152,6 @@
             "assetType": "runtime",
             "rid": "win"
           }
-=======
-          "lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll": {
-            "related": ".xml"
-          }
->>>>>>> main
         }
       },
       "System.IdentityModel.Tokens.Jwt/6.7.1": {
@@ -1746,7 +1726,6 @@
           }
         }
       },
-<<<<<<< HEAD
       "System.Security.Cryptography.Encoding/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -1918,8 +1897,6 @@
           }
         }
       },
-=======
->>>>>>> main
       "System.Text.Json/5.0.2": {
         "type": "package",
         "compile": {
@@ -2026,7 +2003,6 @@
           "lib/netcoreapp2.0/_._": {}
         }
       },
-<<<<<<< HEAD
       "System.Xml.ReaderWriter/4.3.0": {
         "type": "package",
         "dependencies": {
@@ -2075,12 +2051,6 @@
           "ref/netstandard1.3/System.Xml.XDocument.dll": {
             "related": ".xml"
           }
-=======
-      "ZstdSharp.Port/0.7.3": {
-        "type": "package",
-        "compile": {
-          "lib/net5.0/ZstdSharp.dll": {}
->>>>>>> main
         },
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
@@ -3334,7 +3304,6 @@
         "version.txt"
       ]
     },
-<<<<<<< HEAD
     "System.Collections/4.3.0": {
       "sha512": "3Dcj85/TBdVpL5Zr+gEEBUuFe2icOnLalmEh9hfck1PTYbbyWuZgh4fmm2ysCLTrqLQw6t3TgTyJ+VLp+Qb+Lw==",
       "type": "package",
@@ -3577,8 +3546,6 @@
         "system.diagnostics.debug.nuspec"
       ]
     },
-=======
->>>>>>> main
     "System.Diagnostics.DiagnosticSource/4.7.1": {
       "sha512": "j81Lovt90PDAq8kLpaJfJKV/rWdWuEk6jfV+MBkee33vzYLEUsy4gXK8laa9V2nZlLM9VM9yA/OOQxxPEJKAMw==",
       "type": "package",
@@ -3603,7 +3570,6 @@
         "system.diagnostics.diagnosticsource.nuspec",
         "useSharedDesignerContext.txt",
         "version.txt"
-<<<<<<< HEAD
       ]
     },
     "System.Diagnostics.Tools/4.3.0": {
@@ -3898,8 +3864,6 @@
         "runtimes/win/lib/netstandard1.3/System.Globalization.Extensions.dll",
         "system.globalization.extensions.4.3.0.nupkg.sha512",
         "system.globalization.extensions.nuspec"
-=======
->>>>>>> main
       ]
     },
     "System.IdentityModel.Tokens.Jwt/6.7.1": {
@@ -5900,7 +5864,6 @@
         "version.txt"
       ]
     },
-<<<<<<< HEAD
     "System.Text.Encoding.Extensions/4.3.0": {
       "sha512": "YVMK0Bt/A43RmwizJoZ22ei2nmrhobgeiYwFzC4YAN+nue8RF6djXDMog0UCn+brerQoYVyaS+ghy9P/MUVcmw==",
       "type": "package",
@@ -5969,8 +5932,6 @@
         "system.text.encoding.extensions.nuspec"
       ]
     },
-=======
->>>>>>> main
     "System.Text.Json/5.0.2": {
       "sha512": "I47dVIGiV6SfAyppphxqupertT/5oZkYLDCX6vC3HpOI4ZLjyoKAreUoem2ie6G0RbRuFrlqz/PcTQjfb2DOfQ==",
       "type": "package",
@@ -6511,11 +6472,7 @@
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 5.0.17",
       "Microsoft.AspNetCore.Authentication.OpenIdConnect >= 5.0.17",
       "Play.Catalog.Contracts >= 1.0.0",
-<<<<<<< HEAD
       "Play.Common >= 1.0.2",
-=======
-      "Play.Common >= 1.0.1",
->>>>>>> main
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -6552,8 +6509,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
-              "projectPath": "c:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj"
+            "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj": {
+              "projectPath": "C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Contracts\\Play.Catalog.Contracts.csproj"
             }
           }
         }
@@ -6620,5 +6577,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problème de lecture du fichier cache C:\\Users\\SOLUTIONS\\Desktop\\microService\\MicroService\\Play.Catalog\\src\\Play.Catalog.Service\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
