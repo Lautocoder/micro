@@ -18,11 +18,7 @@ namespace Play.Inventory.Service.Consumers
         {
             var message = context.Message;
             var item = await repository.GetAsync(message.ItemId);
-<<<<<<< HEAD
             if (item != null) 
-=======
-            if (item == null) 
->>>>>>> main
             {
                 return;
             }
@@ -31,11 +27,7 @@ namespace Play.Inventory.Service.Consumers
             {
                 Id = message.ItemId,
                 Name = message.Name,
-<<<<<<< HEAD
                 Description = message.Description,
-=======
-                Desctiption = message.Description,
->>>>>>> main
             };
 
             await repository.CreateAsync(item);

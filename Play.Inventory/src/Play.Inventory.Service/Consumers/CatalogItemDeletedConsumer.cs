@@ -25,11 +25,6 @@ namespace Play.Inventory.Service.Consumers
             }
             await repository.RemoveAsync(message.ItemId);
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> main
         }
     }
 }
